@@ -1,0 +1,9 @@
+README.md
+setup.py
+lightpytray/__init__.py
+lightpytray/lightpytray.py
+lightpytray/windows_api.py
+lightpytray.egg-info/PKG-INFO
+lightpytray.egg-info/SOURCES.txt
+lightpytray.egg-info/dependency_links.txt
+lightpytray.egg-info/top_level.txt
