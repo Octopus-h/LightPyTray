@@ -1,4 +1,3 @@
-```markdown
 # LightPyTray
 
 [![PyPI version](https://badge.fury.io/py/lightpytray.svg)](https://pypi.org/project/lightpytray/)
@@ -12,7 +11,6 @@
 LightPyTray 让你无需任何第三方库即可在 Windows 上创建带菜单、图标、气球通知和动画的系统托盘图标。  
 所有功能通过原生 Win32 API 实现，代码干净、运行高效。
 
----
 
 ## ✨ 特性
 
@@ -25,7 +23,6 @@ LightPyTray 让你无需任何第三方库即可在 Windows 上创建带菜单�
 - 🖥️ **高 DPI 优化** —— 自动设置 Per‑Monitor V2 DPI 感知，右键菜单清晰锐利
 - 🧵 **线程安全** —— 消息循环运行在独立守护线程，不会阻塞主线程
 
----
 
 ## 📦 安装
 
