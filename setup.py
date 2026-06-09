@@ -12,9 +12,9 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/octopus-h/lightpytray",
     packages=setuptools.find_packages(),
+    license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: Microsoft :: Windows",
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
